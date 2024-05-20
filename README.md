@@ -11,7 +11,7 @@
 
 ## ハードウェアについて
 
-ここに回路図
+![Sizzling Krunk-Turing](https://github.com/Take-Kai/Arduino-Okarina/assets/169955027/79b46721-4358-486c-ad6b-23472910ab36)
 
 Arduinoの配線図は上記のようになっています。
 
