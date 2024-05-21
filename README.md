@@ -40,7 +40,8 @@ Arduinoにはプッシュボタン、スピーカー、気圧センサBME680が�
 
 これを3Dプリンターで印刷し、中にArduinoが入るように半分に切断したものが下の画像です。
 
-ここにスケルトンオカリナ
+![Okarina_skelton](https://github.com/Take-Kai/Arduino-Okarina/assets/169955027/cf5b2a49-4668-4f9f-be5c-c0b0debabb78)
+
 
 しかし、このオカリナではArduinoが完全に入らず、プッシュボタンをどのように配置するのかを考慮できていませんでした。
 
