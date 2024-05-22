@@ -15,7 +15,9 @@
 ## 開発環境
 
 PC：MacBookPro 1.4GHz クアッドコアIntel Core i5, メモリ8GB
+
 Arduino：ATmega328P
+
 気圧センサ：BME680
 
 
